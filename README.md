@@ -1,16 +1,16 @@
 papilio-enc28j60
 ================
 
-![Papilio Uno with Enc28j60](https://raw.github.com/gregor-samsa/papilio-enc28j60/master/img/1.jpg "Papilio Uno with an Enc28j60") 
+![Papilio One with Enc28j60](https://raw.github.com/gregor-samsa/papilio-enc28j60/master/img/1.jpg "Papilio One with an Enc28j60") 
 
 SPI Ethernet on the Papilio
 
-This is a quick howto to get started using the enc28j60 SPI based ethernet board with the Papilio Uno 500k.
+This is a quick howto to get started using the enc28j60 SPI based ethernet board with the Papilio One 500k.
 
 
 ## Hardware
 
-* Papilio Uno 500k 
+* Papilio One 500k 
 * Olimex ENC28J60-H dev board
 
 ## Set Up
