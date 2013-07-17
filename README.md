@@ -15,10 +15,10 @@ This is a quick howto to get started using the enc28j60 SPI based ethernet board
 
 ## Set Up
 * Install the Papilio [ZAP IDE](http://papilio.cc/index.php?n=Papilio.ZAPIDE)
-* Load hacky fork of jcw's EtherCard library for Arduino (this fork contains changes to map pins to SPI)
-** make sure to save this repo as '(Arduino)/libraries/EtherCard'
+* Load [hacky fork of jcw's EtherCard](https://github.com/gregor-samsa/ethercard) library for Arduino (this fork contains changes to map pins to SPI)
+  * make sure to save this repo as '(Arduino)/libraries/EtherCard'
 * Open 'BackSoon' sketch
-** Edit the ip address and gateway address (check your config with IPCONFIG on windows)
+  * Edit the ip address and gateway address (check your config with IPCONFIG on windows)
 * Connect the pins (see enc28j60.h) -
 
 | Enc28j60      | Papilio       |
