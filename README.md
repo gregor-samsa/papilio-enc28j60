@@ -1,6 +1,8 @@
 papilio-enc28j60
 ================
 
+![Papilio Uno with Enc28j60](https://raw.github.com/gregor-samsa/papilio-enc28j60/master/img/1.jpg "Papilio Uno with an Enc28j60") 
+
 SPI Ethernet on the Papilio
 
 This is a quick howto to get started using the enc28j60 SPI based ethernet board with the Papilio Uno 500k.
@@ -18,6 +20,7 @@ This is a quick howto to get started using the enc28j60 SPI based ethernet board
 * Open 'BackSoon' sketch
 ** Edit the ip address and gateway address (check your config with IPCONFIG on windows)
 * Connect the pins (see enc28j60.h) -
+
 | Enc28j60      | Papilio       |
 | ------------- |:-------------:|
 | SCK - 1       | WAL0          |
